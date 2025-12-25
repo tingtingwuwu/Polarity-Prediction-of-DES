@@ -1,6 +1,8 @@
 # Deep Eutectic Solvent (DES) Polarity and pH Prediction System - Installation and User Guide
 ============================================================
 
+https://github.com/user-attachments/assets/91431426-ebc3-4d13-a42b-a680a73c5a28
+
 ## Important Notes
 This software only supports the Windows x64 operating system.
 Python 3.12 must be installed (as the core algorithms have been compiled specifically for this version).
